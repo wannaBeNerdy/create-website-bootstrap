@@ -38,9 +38,10 @@ To add icons to your website, you need CDN https://www.bootstrapcdn.com/fontawes
 **6. Add footer**
 
 # Other useful links:
-[CSS Units by W3Schools](https://www.w3schools.com/cssref/css_units.asp)<br>
 [Colors for web design by Lolcolors](https://www.webdesignrankings.com/resources/lolcolors/)<br>
 [More colors for web design by Coolors](https://coolors.co/)<br>
+[CSS Units by W3Schools](https://www.w3schools.com/cssref/css_units.asp)<br>
+[Padding and margin explained. W3Schools](https://www.w3schools.com/css/css_boxmodel.asp)<br>
 [Learn CSS Layout](http://learnlayout.com/)<br>
 [Free visual guide to CSS](https://cssreference.io/?fbclid=IwAR2-5xI_ggYGT8_J-DLF6vExk5DaqkNKpeKWswQCQ_UfJkCLHDtctxKhegM)<br>
 
