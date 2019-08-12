@@ -1,122 +1,150 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Example of Website</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        .fa {
+            font-size: 2rem;
+            color: #090707;
+            padding: 0.3rem;
+        }
+    </style>
 </head>
+
 <body>
     <!--Navbar-->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <a class="navbar-brand" href="#">SuperPage</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+            aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
-          <div class="navbar-nav">
-            <a class="nav-item nav-link active" href="#">About me</a>
-            <a class="nav-item nav-link" href="#">Portfolio</a>
-            <a class="nav-item nav-link" href="#">Contact</a>
-          </div>
+            <div class="navbar-nav">
+                <a class="nav-item nav-link active" href="#aboutme">About me</a>
+                <a class="nav-item nav-link" href="#portfolio">Portfolio</a>
+                <a class="nav-item nav-link" href="#contact">Contact</a>
+            </div>
         </div>
-      </nav> 
-
-     
-           <!--Jumbotron-->
-            <div class="jumbotron jumbotron-fluid" style="height:100vh;background-color: #A593E0;">
-                    <div class="container" style="text-align:center;">
-                      <h1 class="display-3" style="padding-top:25vh;">Welcome to my page!</h1>
-                      <p class="lead" style="font-size:2rem;">My name is Vlada and I love learning.</p>
-                    </div>
-                  </div>
+    </nav>
 
 
-                  <!--About me-->
-                  <div class="container p-5">
-                      <div class="row">
-                          <div class="col">
-                            <blockquote class="blockquote mx-auto">
-                                <h1 style="text-align:center;">About me</h1>
-                                    <p class="mb-0 p-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-                                        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                                        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-                                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore 
-                                        eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
-                                        sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                  </blockquote>
-                                </div>
-                      </div>
-                    </div>
+    <!--Jumbotron-->
+    <div class="jumbotron jumbotron-fluid" style="height:100vh;background-color: #A593E0;">
+        <div class="container" style="text-align:center;">
+            <h1 class="display-3" style="padding-top:25vh;">Welcome to my page!</h1>
+            <p class="lead" style="font-size:2rem;">My name is Vlada and I love learning.</p>
+        </div>
+    </div>
 
-                  <!--Portfolio-->
-                    <div class="container-fluid p-5" style="background-color: #E0E3DA;">
-                  <h1 class="pt-5" style="text-align: center;">My Portfolio</h1>
-                  <div class="row p-5">
-                      <div class="col">
-                          <div class="card">
-                            <img src="images/lvlup ilman taustaa.png" class="card-img-top" alt="...">
-                            <div class="card-body">
-                              <h5 class="card-title">First example</h5>
-                              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                              <a href="#" class="btn btn-outline-secondary">Go somewhere</a>
-                            </div>
-                          </div>
-                        </div>
-                      <div class="col">
-                            <div class="card">
-                                    <img src="images/lvlup ilman taustaa.png" class="card-img-top" alt="...">
-                                    <div class="card-body">
-                                      <h5 class="card-title">Second example</h5>
-                                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                      <a href="#" class="btn btn-outline-secondary">Go somewhere</a>
-                                    </div>
-                                  </div>
-                      </div>
-                      <div class="col">
-                            <div class="card">
-                                    <img src="images/lvlup ilman taustaa.png" class="card-img-top" alt="...">
-                                    <div class="card-body">
-                                      <h5 class="card-title">Third example</h5>
-                                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                      <a href="#" class="btn btn-outline-secondary">Go somewhere</a>
-                                    </div>
-                                  </div>
-                      </div>
-                  </div>
+
+    <!--About me-->
+    <section id="aboutme">
+        <div class="container p-5">
+            <div class="row">
+                <div class="col">
+                    <blockquote class="blockquote mx-auto">
+                        <h1 style="text-align:center;">About me</h1>
+                        <p class="mb-0 p-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+                            commodo consequat.
+                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+                            eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+                            sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    </blockquote>
                 </div>
-           
-                <!--Contact me-->
-                        <div class="container-fluid p-5" style="background-color: #A593E0;">
-                        <div class="row p-5" style="text-align: center;">
-                          <div class="col">
-                            <h4>About this page</h4>
-                            <p>Made with <i class="fa fa-coffee"></i> and <i class="fa fa-spotify"></i> by Vlada.</p>
-                          </div>
+            </div>
+        </div>
+    </section>
 
-                          <div class="col col mx-auto">
-                            <h4>Check me out</h4>
-                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                            <a href="#"><i class="fa fa-github"></i></a>
-                            <a href="#"><i class="fa fa-instagram"></i></a>
-                            <a href="#"><i class="fa fa-codepen"></i></a>
-                          </div>
+    <!--Portfolio-->
+    <section id="portfolio">
+        <div class="container-fluid p-5" style="background-color: #E0E3DA;">
+            <h1 class="pt-5" style="text-align: center;">My Portfolio</h1>
+            <div class="row p-5">
+                <div class="col">
+                    <div class="card">
+                        <img src="images/lvlup ilman taustaa.png" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">First example</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk
+                                of the card's content.</p>
+                            <a href="#" class="btn btn-outline-secondary">Go somewhere</a>
                         </div>
                     </div>
+                </div>
+                <div class="col">
+                    <div class="card">
+                        <img src="images/lvlup ilman taustaa.png" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Second example</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk
+                                of the card's content.</p>
+                            <a href="#" class="btn btn-outline-secondary">Go somewhere</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card">
+                        <img src="images/lvlup ilman taustaa.png" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Third example</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk
+                                of the card's content.</p>
+                            <a href="#" class="btn btn-outline-secondary">Go somewhere</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
-                        <footer>
-                        <div class="row" style="text-align: center;background-color: #A593E0;">
-                            <div class="col">
-                          <p class="small">VL &copy; 2019. All Rights Reserved</p>
-                        </div>
-                        </div>
-                          </footer>
-                      
-            
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>   
+    <!--Contact me-->
+    <section id="contact">
+        <div class="container-fluid p-5" style="background-color: #A593E0;">
+            <div class="row p-5" style="text-align: center;">
+                <div class="col">
+                    <h4>About this page</h4>
+                    <p>Made with <i class="fa fa-coffee"></i> and <i class="fa fa-spotify"></i> by Vlada.</p>
+                </div>
+
+                <div class="col mx-auto">
+                    <h4>Check me out</h4>
+                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                    <a href="#"><i class="fa fa-github"></i></a>
+                    <a href="#"><i class="fa fa-instagram"></i></a>
+                    <a href="#"><i class="fa fa-codepen"></i></a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="row" style="text-align: center;background-color: #A593E0;">
+            <div class="col">
+                <p class="small">VL &copy; 2019. All Rights Reserved</p>
+            </div>
+        </div>
+    </footer>
+
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
 </body>
+
 </html>
