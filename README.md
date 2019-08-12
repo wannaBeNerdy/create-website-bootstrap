@@ -3,12 +3,10 @@ This is a tutorial for beginners.
 
 Use https://codepen.io/ or text editor to create a website
 
-1. Create navigation
-
+1. Create navigation<br>
 Documentation about navbar https://getbootstrap.com/docs/4.3/components/navbar/
 
-2. Create large section with text
-
+2. Create large section with text<br>
 About jumbotron https://getbootstrap.com/docs/4.3/components/jumbotron/
 
 3. Add section with some text
@@ -28,7 +26,7 @@ You need container, row, columns and icons.
 Check icons here: https://fontawesome.com/ 
 To add icons to your website, you need CDN https://www.bootstrapcdn.com/fontawesome/
 
-What is CDN? CDN (Content Delivery Network) is a global network of servers that deliver content to visitors of a website based on where that visitor is located. [More info here] (https://www.wpsuperstars.net/beginners-guide-content-delivery-networks/)
+What is CDN? CDN (Content Delivery Network) is a global network of servers that deliver content to visitors of a website based on where that visitor is located. [More info here](https://www.wpsuperstars.net/beginners-guide-content-delivery-networks/)
 
 6. Add footer
 
