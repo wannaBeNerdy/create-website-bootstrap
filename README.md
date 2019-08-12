@@ -1,2 +1,2 @@
 # create-website-bootstrap
-This is a tutorial created for workshop for beginners.
+This is a tutorial for beginners.
