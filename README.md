@@ -4,21 +4,26 @@ This is a tutorial for beginners.
 Use https://codepen.io/ or text editor to create a website
 
 1. Create navigation
+
 Documentation about navbar https://getbootstrap.com/docs/4.3/components/navbar/
 
 2. Create large section with text
+
 About jumbotron https://getbootstrap.com/docs/4.3/components/jumbotron/
 
 3. Add section with some text
+
 Learn about containers https://getbootstrap.com/docs/4.3/layout/overview/
 Learn about rows and columns https://getbootstrap.com/docs/4.3/layout/grid/
 Typography https://getbootstrap.com/docs/4.3/content/typography/
 
 4. Add section with portfolio
+
 You need container, row, columns and cards.
 Learn about cards https://getbootstrap.com/docs/4.3/components/card/
 
 5. Add Contact me -section
+
 You need container, row, columns and icons.
 Check icons here: https://fontawesome.com/ 
 To add icons to your website, you need CDN https://www.bootstrapcdn.com/fontawesome/
