@@ -23,7 +23,8 @@ About jumbotron https://getbootstrap.com/docs/4.3/components/jumbotron/
 **3. Add section with some text**<br>
 Learn about containers https://getbootstrap.com/docs/4.3/layout/overview/<br>
 Learn about rows and columns https://getbootstrap.com/docs/4.3/layout/grid/<br>
-Typography https://getbootstrap.com/docs/4.3/content/typography/
+About typography https://getbootstrap.com/docs/4.3/content/typography/<br>
+About spacing: https://getbootstrap.com/docs/4.3/utilities/spacing/
 
 **4. Add section with portfolio**<br>
 You need container, row, columns and cards.<br>
