@@ -1,5 +1,13 @@
 # How to create a website with Bootstrap
 This is a tutorial for beginners.
+<div
+ class="canva-embed"
+ data-design-id="DADh_1Jdccg"
+ data-height-ratio="0.5625"
+ style="padding:56.2500% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"
+></div>
+<script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DADh_1Jdccg&#x2F;view?utm_content=DADh_1Jdccg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">How to create a website</a> by <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;vlada.makinen?utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Vlada Laukkonen</a>
 
 Use [Codepen](https://codepen.io/) or text editor to create a website<br>
 Remember to link Bootstrap. [More info here.](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
