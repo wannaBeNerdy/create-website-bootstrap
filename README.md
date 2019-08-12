@@ -30,15 +30,15 @@ To add icons to your website, you need CDN https://www.bootstrapcdn.com/fontawes
 **6. Add footer**
 
 # Other useful links:
-[CSS Units](https://www.w3schools.com/cssref/css_units.asp)<br>
-[Colors for web design](https://www.webdesignrankings.com/resources/lolcolors/)<br>
-[More colors for web design](https://coolors.co/)
-[Learn CSS Layout](http://learnlayout.com/)
-[Free visual guide to CSS](https://cssreference.io/?fbclid=IwAR2-5xI_ggYGT8_J-DLF6vExk5DaqkNKpeKWswQCQ_UfJkCLHDtctxKhegM)
+[CSS Units by W3Schools](https://www.w3schools.com/cssref/css_units.asp)<br>
+[Colors for web design by Lolcolors](https://www.webdesignrankings.com/resources/lolcolors/)<br>
+[More colors for web design by Coolors](https://coolors.co/)<br>
+[Learn CSS Layout](http://learnlayout.com/)<br>
+[Free visual guide to CSS](https://cssreference.io/?fbclid=IwAR2-5xI_ggYGT8_J-DLF6vExk5DaqkNKpeKWswQCQ_UfJkCLHDtctxKhegM)<br>
 
-[HTML & CSS. Introduction.](https://internetingishard.com/html-and-css/introduction/?fbclid=IwAR1nNlIQaLhedfjT6UEF7Gc8RZa3HzEeRFRVMFvyNFLU_3H5SpvmRiDdx5U) 
-[Intro to HTML & CSS by Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud001)
-[Learn how to build websites by Codecademy](https://www.codecademy.com/learn/paths/learn-how-to-build-websites)
-[Learn to code for free with freeCodeCamp](https://www.freecodecamp.org/)
-[Learn to code with Progate](https://progate.com/)
+[HTML & CSS. Introduction by Interneting is hard](https://internetingishard.com/html-and-css/introduction/?fbclid=IwAR1nNlIQaLhedfjT6UEF7Gc8RZa3HzEeRFRVMFvyNFLU_3H5SpvmRiDdx5U) <br>
+[Intro to HTML & CSS by Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud001)<br>
+[Learn how to build websites by Codecademy](https://www.codecademy.com/learn/paths/learn-how-to-build-websites)<br>
+[Learn to code for free with freeCodeCamp](https://www.freecodecamp.org/)<br>
+[Learn to code with Progate](https://progate.com/)<br>
 [Web Development. Free course by the Odin project](https://www.theodinproject.com/tracks/3)
