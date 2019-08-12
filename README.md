@@ -1,8 +1,8 @@
 # How to create a website with Bootstrap
 This is a tutorial for beginners.
 
-Use https://codepen.io/ or text editor to create a website
-Remember to link Bootstrap. [More info here](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+Use [Codepen](https://codepen.io/) or text editor to create a website
+Remember to link Bootstrap. [More info here.](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 
 What is CDN?<br> 
 CDN (Content Delivery Network) is a global network of servers that deliver content to visitors of a website based on where that visitor is located. <br>[More info here](https://www.wpsuperstars.net/beginners-guide-content-delivery-networks/)
@@ -30,6 +30,15 @@ To add icons to your website, you need CDN https://www.bootstrapcdn.com/fontawes
 **6. Add footer**
 
 # Other useful links:
-CSS Units https://www.w3schools.com/cssref/css_units.asp<br>
-Colors for web design https://www.webdesignrankings.com/resources/lolcolors/<br>
-More colors for web design https://coolors.co/
+[CSS Units](https://www.w3schools.com/cssref/css_units.asp)<br>
+[Colors for web design](https://www.webdesignrankings.com/resources/lolcolors/)<br>
+[More colors for web design](https://coolors.co/)
+[Learn CSS Layout](http://learnlayout.com/)
+[Free visual guide to CSS](https://cssreference.io/?fbclid=IwAR2-5xI_ggYGT8_J-DLF6vExk5DaqkNKpeKWswQCQ_UfJkCLHDtctxKhegM)
+
+[HTML & CSS. Introduction.](https://internetingishard.com/html-and-css/introduction/?fbclid=IwAR1nNlIQaLhedfjT6UEF7Gc8RZa3HzEeRFRVMFvyNFLU_3H5SpvmRiDdx5U) 
+[Intro to HTML & CSS by Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud001)
+[Learn how to build websites by Codecademy](https://www.codecademy.com/learn/paths/learn-how-to-build-websites)
+[Learn to code for free with freeCodeCamp](https://www.freecodecamp.org/)
+[Learn to code with Progate](https://progate.com/)
+[Web Development. Free course by the Odin project](https://www.theodinproject.com/tracks/3)
