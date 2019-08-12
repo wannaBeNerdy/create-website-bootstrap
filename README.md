@@ -1,7 +1,7 @@
 # How to create a website with Bootstrap
 This is a tutorial for beginners.
 
-Use [Codepen](https://codepen.io/) or text editor to create a website
+Use [Codepen](https://codepen.io/) or text editor to create a website<br>
 Remember to link Bootstrap. [More info here.](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 
 What is CDN?<br> 
